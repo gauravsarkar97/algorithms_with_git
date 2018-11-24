@@ -30,6 +30,11 @@ Enter "CLUE" : GPYI
 INTERVIEW
 ```
 
+### Time Complexity
+
+This algorithm runs in linear time as there is only one for loop which runs for the entire length of the encrypted text message.
+Thus, the time complexity would be O(n), where n is the length of the encrypted string. 
+
 ### Implemented in:
 
 - [C](Caesar's_cipher.c)
