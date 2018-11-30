@@ -11,3 +11,5 @@ Happy Open Sourcing!
 ## List of all Algorithms
 
 - [Maximum of Array](algorithms/maximum_of_array)
+- [Caesar's Cipher](algorithms/Caesar's_cipher)
+- [Array Rotation by 1](algorithms/array_rotation_by_1)
