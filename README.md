@@ -17,3 +17,6 @@ Happy Open Sourcing!
 - [Quick Sort](algorithm/quick_sort)
 - [binomialCoefficient](algorithms/binomialCoefficient)
 - [Insertion Sort](algorithms/insertion_sort)
+- [Caesar's Cipher](algorithms/Caesar's_cipher)
+- [Array Rotation by 1](algorithms/array_rotation_by_1)
+- [Magic Number](algorithms/Magic_Number)
