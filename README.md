@@ -11,5 +11,13 @@ Happy Open Sourcing!
 ## List of all Algorithms
 
 - [Maximum of Array](algorithms/maximum_of_array)
+- [Breadth First Traversal](algorithms/breadth_first_traversal)
+- [Bubble Sort](algorithms/Bubble_Sort)
+- [Heap Sort](algorithms/heap_sort)
+- [Quick Sort](algorithm/quick_sort)
+- [Binomial Coefficient](algorithms/binomialCoefficient)
+- [Insertion Sort](algorithms/insertion_sort)
+- [Dijkstra Shortest Path](algorithms/dijkstra)
 - [Caesar's Cipher](algorithms/Caesar's_cipher)
-- [Array Rotation by 1](algorithms/array_rotation_by_1)
+- [Array Rotation By 1](algorithms/array_rotation_by_1)
+- [Magic Number](algorithms/magic_no/)
