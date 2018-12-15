@@ -64,3 +64,4 @@ Happy Open Sourcing!
 - [Caesar's Cipher](algorithms/Strings/Caesar's_cipher)
 - [KMP Pattern Search Alogrithm](algorithms/Strings/KMP_Pattern_Search_Algorithm)
 - [Z's Alogrithm](algorithms/Strings/Z_Algorithm)
+- [Pangram](algorithms/Strings/Pangram)
