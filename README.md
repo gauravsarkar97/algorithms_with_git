@@ -52,6 +52,7 @@ Happy Open Sourcing!
 - [T Prime Number](algorithms/Maths/t_prime_number)
 - [Last_Men_Standing](algorithms/Maths/last_men_standing)
 - [Modulo Square Root](algorithms/Maths/Modulo-Square-Root)
+- [Trailing_Zeros_in_Factorial](algorithms/Maths/Trailing_Zeros_in_Factorial/)
 
 ### Sorting
 
@@ -64,6 +65,8 @@ Happy Open Sourcing!
 - [Radix Sort](algorithms/Sorting/radix_sort)
 - [Selection Sort](algorithms/Sorting/selection_sort)
 - [Tree Sort](algorithms/Sorting/tree_sort)
+- [Order_Statistics](algorithms/Sorting/Order_Statistics/)
+- [Pancake_Sort](algorithms/Sorting/pancake_sort/)
 
 ### Searching
 
